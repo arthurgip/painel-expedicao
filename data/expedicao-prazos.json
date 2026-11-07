@@ -1,0 +1,82 @@
+[
+ {
+  "data": "2026-11-07",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 0,
+  "aguardando_coleta": 15,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-09",
+  "canal": "Shein",
+  "atrasado": false,
+  "a_imprimir": 202,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-09",
+  "canal": "Tiktok",
+  "atrasado": false,
+  "a_imprimir": 0,
+  "aguardando_coleta": 142,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-09",
+  "canal": "Shopee",
+  "atrasado": false,
+  "a_imprimir": 3,
+  "aguardando_coleta": 69,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-09",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 1,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-10",
+  "canal": "Tiktok",
+  "atrasado": false,
+  "a_imprimir": 18,
+  "aguardando_coleta": 173,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-13",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 1,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-14",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 1,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-16",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 5,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-17",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 2,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ }
+]
