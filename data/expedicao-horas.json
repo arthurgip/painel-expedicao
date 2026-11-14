@@ -1,0 +1,17 @@
+[
+ {
+  "canal": "Shopee",
+  "hora": 10,
+  "coletados": 11
+ },
+ {
+  "canal": "Shopee",
+  "hora": 11,
+  "coletados": 220
+ },
+ {
+  "canal": "Nuvemshop",
+  "hora": 12,
+  "coletados": 1
+ }
+]

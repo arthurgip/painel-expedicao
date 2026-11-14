@@ -1,0 +1,122 @@
+[
+ {
+  "data": "2026-11-13",
+  "canal": "Shopee",
+  "atrasado": true,
+  "a_imprimir": 0,
+  "aguardando_coleta": 1,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-14",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 0,
+  "aguardando_coleta": 1,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-15",
+  "canal": "Temu",
+  "atrasado": false,
+  "a_imprimir": 2,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-16",
+  "canal": "Shein",
+  "atrasado": false,
+  "a_imprimir": 230,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-16",
+  "canal": "Tiktok",
+  "atrasado": false,
+  "a_imprimir": 0,
+  "aguardando_coleta": 140,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-16",
+  "canal": "Shopee",
+  "atrasado": false,
+  "a_imprimir": 1,
+  "aguardando_coleta": 90,
+  "aguardando_envio": 1
+ },
+ {
+  "data": "2026-11-16",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 80,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-17",
+  "canal": "Shein",
+  "atrasado": false,
+  "a_imprimir": 207,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-17",
+  "canal": "Tiktok",
+  "atrasado": false,
+  "a_imprimir": 18,
+  "aguardando_coleta": 159,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-17",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 65,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-17",
+  "canal": "Temu",
+  "atrasado": false,
+  "a_imprimir": 2,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-18",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 56,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-19",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 6,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-23",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 2,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ },
+ {
+  "data": "2026-11-25",
+  "canal": "Mercado Livre",
+  "atrasado": false,
+  "a_imprimir": 1,
+  "aguardando_coleta": 0,
+  "aguardando_envio": 0
+ }
+]
